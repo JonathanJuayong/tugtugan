@@ -53,6 +53,7 @@
 	- [[Chords/Songs/Too Sweet\|Too Sweet]]
 	- [[Chords/Songs/Tuloy Pa Rin Ako\|Tuloy Pa Rin Ako]]
 	- [[Chords/Songs/Unwell\|Unwell]]
+	- [[Chords/Songs/When I Look At You\|When I Look At You]]
 	- [[Chords/Songs/You And Me\|You And Me]]
 	- [[Chords/Songs/You Found Me\|You Found Me]]
 	- [[Chords/Songs/You're a God\|You're a God]]
