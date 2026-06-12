@@ -36,7 +36,7 @@
 	- [[Chords/Songs/Lips Of An Angel\|Lips Of An Angel]]
 	- [[Chords/Songs/Love Team\|Love Team]]
 	- [[Chords/Songs/Lovefool\|Lovefool]]
-	- [[Chords/Songs/Make It With You Chords\|Make It With You Chords]]
+	- [[Chords/Songs/Make It With You\|Make It With You]]
 	- [[Chords/Songs/One More Night\|One More Night]]
 	- [[Chords/Songs/Para Sa Masa\|Para Sa Masa]]
 	- [[Chords/Songs/Picha Pie\|Picha Pie]]
