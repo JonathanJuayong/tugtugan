@@ -3,5 +3,5 @@
 ---
 
 ![Photo.png](/img/user/Photo.png)
-# [[Chords/Chords\|View All Songs 🎸🎵]]
+# [[Chords\|View All Songs 🎸🎵]]
 
