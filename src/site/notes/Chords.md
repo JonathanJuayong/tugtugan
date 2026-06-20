@@ -4,7 +4,7 @@
 
 ![pexels-kaip-1128440.jpg\|697](/img/user/pexels-kaip-1128440.jpg)
 
-| Artist                       | Songs                                                                                                                                                                                          |
+| Artists                      | Songs                                                                                                                                                                                          |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Adele                        | <ul><li>[[Songs/All I Ask.md\\|All I Ask]]</li><li>[[Songs/Rolling In The Deep.md\\|Rolling In The Deep]]</li></ul>                                                                            |
 | Aha                          | <ul><li>[[Songs/Take on Me.md\\|Take on Me]]</li></ul>                                                                                                                                         |
